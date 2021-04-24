@@ -1,4 +1,4 @@
-# Sheesh Price Tracker and Portfolio
+# Sheesh Price Tracker and Portfolio Tracker
 Chrome Extension for Real Time Price Updates for Sheesh with Investment Portfolio
 
 ## How to Set-Up:
