@@ -8,7 +8,7 @@ A small Chrome Extension to track real time price of Sheesh Token.
 - Edit Line 2, var invested = 1; change from 1 to the amount of USD cash you invested in sheesh.
 - Save File with changes
 
-#How to Install
+## How to Install
 - Open Chrome Extensions
 - Turn on Developer Mode
 - Click "Load unpacked"
