@@ -1,0 +1,16 @@
+{
+	"name": "Sheesh Price Tracker",
+	"description": "Check the latest price of Sheesh from Pancakeswap.",
+	"version": "1.0",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "main.html",
+		"default_icon": "images/sheesh.png"
+	},
+	"icons": {
+		"16": "images/sheesh.png",
+		"32": "images/sheesh.png",
+		"48": "images/sheesh.png",
+		"128": "images/sheesh.png"
+	}
+}
