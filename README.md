@@ -1,5 +1,5 @@
-# Sheesh Price Tracker
-Chrome Extension for Real Time Price and Portfolio Updates for Sheesh Token
+# Sheesh Portfolio & Price Tracker
+Chrome Extension to view Real Time Price and Portfolio Updates for Sheesh Token
 
 ## How to Set-Up:
 - Extract Folder
