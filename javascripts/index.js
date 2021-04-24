@@ -1,5 +1,5 @@
-var shares = 1;
-var invested = 1;
+var shares = 0;
+var invested = 0;
 var holdings = $("#holdings")[0];
 var value = $("#value")[0];
 var initial = $("#initial")[0];
